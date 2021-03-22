@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: rgb(255, 246, 127);
+    border-style: solid;
+    background-color: rgb(255, 246, 127);
+    margin-top: 0px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-width: 150px;
+}
+h4 {
+    margin-left: 50px;
+}
+div {
+    text-align: center;
+    margin-left: 375px;
+    margin-right: 100px;
+    border: 1px solid black;
+    padding: 10px;
+    width: 400px;
+    height: 160px;
+    text-align: justify;
+  }
+
+  a:link, a:visited {
+    margin-left: 467px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 246, 127);
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  p {
+      text-align: center;
+      border-style: solid;
+      border-color: rgb(255, 246, 127);
+      background-color: rgb(255, 246, 127);
+      margin-top: 0px;
+      margin-bottom: 5px;
+      margin-right: 5px;
+      margin-left: 5px;
+      border-width: 5px;
+}
